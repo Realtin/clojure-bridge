@@ -1,3 +1,8 @@
-# drawing
+# Rainbow Lines&Rectangle
 
-A project using Quil in which ... well, that part is up to you.
+following the [ClojureBridge Workshop Material](https://github.com/ClojureBridge/drawing/blob/master/curriculum/first-program.md) and playing around with Quil!
+
+A project using [Quil](http://quil.info) in which you have:
+* a Rectangle 
+  * that changes color with the position of the mouse
+  * is connected to the edges of the screen by lines
