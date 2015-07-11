@@ -1,5 +1,7 @@
 # Rainbow Lines&Rectangle
 
+![](http://i.imgur.com/e2OAVUk.gif)
+
 following the [ClojureBridge Workshop Material](https://github.com/ClojureBridge/drawing/blob/master/curriculum/first-program.md) and playing around with Quil!
 
 A project using [Quil](http://quil.info) in which you have:
